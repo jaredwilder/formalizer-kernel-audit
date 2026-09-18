@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this audit, please cite it."
+title: "Formalizer kernel audit"
+authors:
+  - family-names: "Wilder"
+    given-names: "Jared"
+type: dataset
+repository-code: "https://github.com/jaredwilder/formalizer-kernel-audit"
+license: Apache-2.0
